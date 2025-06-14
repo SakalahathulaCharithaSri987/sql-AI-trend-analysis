@@ -98,7 +98,7 @@ To analyze how public interest in AI tools changes over time using SQL-only logi
 
 **Charitha Sri Sakalabhathula**  
 LinkedIn : https://www.linkedin.com/in/charithasri9/
-GitHub : https://github.com/SakalabhathulaCharithaSri987
+GitHub : https://github.com/SakalahathulaCharithaSri987
 E-Mail : charithasrisakalabhathula@gmail.com
 
 ---
